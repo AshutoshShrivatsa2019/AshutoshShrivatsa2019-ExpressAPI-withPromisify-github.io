@@ -1,0 +1,23 @@
+[
+    {
+        "sku": "1000BL01",
+        "name": "Product 1",
+        "SOH": "10",
+        "price": "1000",
+        "id": 1
+    },
+    {
+        "sku": "1000BL02",
+        "name": "Product 2",
+        "SOH": "20",
+        "price": "2000",
+        "id": 2
+    },
+    {
+        "sku": "1000BL04",
+        "name": "Product 4",
+        "SOH": "40",
+        "price": "4000",
+        "id": 4
+    }
+]
